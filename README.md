@@ -1,6 +1,5 @@
 # Line_Follower_RoboCup_2023
 
-This repository contains the complete code for our Line Follower Robot – RoboCup 2023 entry.
 The robot is designed to autonomously follow a black line on a white surface, detect green markers, and execute actions based on competition rules.
 
 The system is divided into two main parts:
