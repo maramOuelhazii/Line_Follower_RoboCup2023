@@ -32,3 +32,6 @@ Detects green circular markers on the field using cv2.HoughCircles() and contour
 Decision Making:
 Once a marker is detected, sends a signal to the Arduino via serial communication.
 Triggers specific robot behaviors depending on marker position (e.g., turns, stops, speed changes).
+
+Specifications Document
+You can consult the detailed cahier des charges [here](RCJRescueLine2023Rules.pdf).
