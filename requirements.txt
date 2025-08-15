@@ -1,2 +1,2 @@
-pyserial
-opencv-python
+pyserial==3.5
+opencv-python==4.9.0.80
